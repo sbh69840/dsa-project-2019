@@ -5,9 +5,9 @@
 #include<assert.h>
 #include "segment_tree_cpu.h"
 #include "segment_tree_iter.h"
-#define t 7
+#define t 6
 
-int n_values[] = {10,100,1000,10000,100000,1000000,10000000};
+int n_values[] = {10,100,1000,10000,100000,1000000};
 double cpu_recur_time[t];
 double cpu_iter_time[t];
 double cpu_brute_force[t];
