@@ -1,7 +1,7 @@
 # dsa-project-2019
 Segment tree vs brute force graphical comparision using C,python
 
-## Run the file on your Linux machine (Unless you have gcc on windows)
+## Run the file on your Linux machine (Even on windows, if you have gcc, make)
 Step1 : Download the repository<br/>
 Step 2 : cd into it<br/>
 Step 3 : make<br/>
